@@ -24,4 +24,6 @@ Bay s
 1. On Android device having Android 10 just launch search places activity and type any search string mentioned above.
 2. Create Android 10 emulator and run search places activity, use emulator soft keyboard to search the location strings.
 
+- Video
 
+https://drive.google.com/file/d/1pXs61HdlGYy_CkRw57g7dxgFfhyAfjdY/view?usp=sharing
