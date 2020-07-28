@@ -9,6 +9,7 @@ The problem is on Android 10 and above. Other Android versions seems working fin
 - Sdk setup
 
 Implememted Android places autocomplete sdk activity as mentioned in docs.
+
 NOTE: Please replace `PLACES_API_KEY` in `MainActivity` with actual Places Api key before running demo app.
 
 https://developers.google.com/places/android-sdk/autocomplete#option_2_use_an_intent_to_launch_the_autocomplete_activity
